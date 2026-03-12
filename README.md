@@ -57,10 +57,13 @@
 # 🎧 Now Playing
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26" width="60%" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nyloigtkhp3dx3wr2dglvle76a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nyloigtkhp3dx3wr2dglvle76a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color_cover=true" alt="Spotify Now Playing" width="60%" />
   </a>
 </p>
+
+
+
 
 ---
 
