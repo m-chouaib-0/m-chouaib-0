@@ -113,8 +113,6 @@ const chouaib = {
 </p>
 
 
-> ⚠️ The snake animation requires a **GitHub Actions workflow** in your profile repo. See setup guide below ↓
-
 -----
 
 ## 🎧 Currently Vibing To
@@ -153,46 +151,6 @@ const chouaib = {
 
 -----
 
-<details>
-<summary>⚙️ <b>How to enable the Snake animation</b></summary>
-<br/>
-
-1. Make sure your profile repo is named **`m-chouaib-0`** (same as your username)
-1. Create the file `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-1. Run the workflow manually once from the **Actions** tab
-1. The snake SVG will be generated and pushed to the `output` branch automatically
-
-</details>
 
 <br/>
 
