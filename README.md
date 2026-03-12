@@ -1,87 +1,90 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=280&section=header&text=MOHAMED%20CHOUAIB&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20UI%2FUX%20%7C%20Network%20Security&descAlignY=62&descSize=22&fontColor=FF6B00&descAlignY=64](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=280&section=header&text=MOHAMED%20CHOUAIB&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20UI%2FUX%20%7C%20Network%20Security&descAlignY=62&descSize=22&fontColor=FF6B00&descAlignY=64)" width="100%" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0a00,100:FF6B00&height=300&section=header&text=MOHAMED%20CHOUAIB&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Network%20Security&descAlignY=62&descSize=20&fontColor=FF6B00&descColor=FFFFFF" width="100%" />
+</p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=950&lines=🔥+Full-Stack+Developer;🎨+UI%2FUX+Designer+%7C+Creative+Thinker;🛡️+Network+Supervision+Engineer;⚡+React+%7C+Python+%7C+Clean+Code;🚀+Building+the+Future%2C+One+Commit+at+a+Time" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-chouaib-0&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=FOLLOWERS" />
+</p><br/>
 
-<p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=950&lines=](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=950&lines=)🔥+Full-Stack+Developer;🎨+UI%2FUX+Designer+%7C+Creative+Thinker;🛡️+Network+Supervision+Engineer;⚡+React+%7C+Python+%7C+Clean+Code;🚀+Building+the+Future%2C+One+Commit+at+a+Time" />
-</p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />🔥 About Me
 
-<p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=m-chouaib-0&color=FF6B00&style=for-the-badge&label=](https://komarev.com/ghpvc/?username=m-chouaib-0&color=FF6B00&style=for-the-badge&label=)👁️+PROFILE+VIEWS" />
-  &nbsp;
-  <img src="[https://img.shields.io/github/followers/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=FOLLOWERS](https://img.shields.io/github/followers/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=FOLLOWERS)" />
-</p>
-
----
-
-<img align="right" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="280" alt="coding gif" />
-
-## 🔥 About Me
-
-```javascript
 const chouaib = {
-  location : "Morocco 🇲🇦",
-  role     : ["Full-Stack Dev", "UI/UX Designer", "NetOps"],
-  stack    : ["React", "Python", "Java", "MySQL"],
-  exploring: ["Zabbix", "Machine Learning", "DevOps"],
-  motto    : "Clean code. Creative solutions. No limits."
+  location  : "Morocco 🇲🇦",
+  roles     : ["Full-Stack Developer", "UI/UX Designer", "NetOps Engineer"],
+  stack     : ["React", "Python", "Java", "MySQL", "Linux"],
+  exploring : ["Zabbix", "Machine Learning", "DevOps", "Cloud"],
+  available : true,
+  motto     : "Clean code. Creative solutions. No limits."
 };
-```
 
-<br clear="all" />
+<br clear="right"/>
+
 🧠 Tech Arsenal
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,linux,git,mysql,vscode,figma,bash&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css,linux,git,mysql,vscode,figma,bash,docker&perline=7&theme=dark" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-1A1A1A?style=for-the-badge&logo=figma&logoColor=FF6B00" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-FF6B00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux%20Admin-1A1A1A?style=for-the-badge&logo=linux&logoColor=FF6B00" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX_Design-1A1A2E?style=for-the-badge&logo=figma&logoColor=FF6B00" />
-<img src="https://img.shields.io/badge/REST_API-FF6B00?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+
 📊 GitHub Intelligence
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=m-chouaib-0&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&ring_color=FF6B00" width="49%" />
-<img src="https://streak-stats.demolab.com?user=m-chouaib-0&theme=dark&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-chouaib-0&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&ring_color=FF6B00&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=m-chouaib-0&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-chouaib-0&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF&langs_count=8" width="42%" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-chouaib-0&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" width="40%" />
-</p>
+
 📈 Contribution Activity
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-chouaib-0&bg_color=0D0D0D&color=FF6B00&line=FF6B00&point=FFFFFF&area_color=FF6B00&area=true&hide_border=true&custom_title=🔥%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-chouaib-0&bg_color=0D0D0D&color=FF6B00&line=FF6B00&point=FFFFFF&area_color=FF6B00&area=true&hide_border=true&custom_title=🔥 Contribution Graph" width="100%" />
 </p>
+
+
 🐍 Contribution Snake
 <p align="center">
-<img alt="Snake animation" src="https://raw.githubusercontent.com/m-chouaib-0/m-chouaib-0/output/dist/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/m-chouaib-0/m-chouaib-0/output/dist/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-🎧 Vibing To
+
+
+🎧 Currently Vibing To
 <p align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nyloigtkhp3dx3wr2dglvle76a&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nyloigtkhp3dx3wr2dglvle76a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D0D0D&interchange=true&bar_color=FF6B00&bar_color_cover=false" alt="Spotify Now Playing" width="55%" />
-</a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nyloigtkhp3dx3wr2dglvle76a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nyloigtkhp3dx3wr2dglvle76a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D0D0D&interchange=true&bar_color=FF6B00&bar_color_cover=false" alt="Spotify Now Playing" width="52%" />
+  </a>
 </p>
+
 💬 Words to Code By
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=FF6B00" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=FF6B00" />
 </p>
+
 🌐 Let’s Connect
 <p align="center">
-<a href="https://linkedin.com/in/mohamed-chouaib">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://m-chouaib.eu.cc">
-<img src="https://img.shields.io/badge/🌍_Portfolio-FF6B00?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:m.chouaib.mohamed@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+  <a href="https://linkedin.com/in/mohamed-chouaib">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://m-chouaib.eu.cc">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:m.chouaib.mohamed@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p><br/>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=120&section=footer&fontColor=FF6B00" width="100%" />
-</p>
-<p align="center">
-<b>🔥 "Clean code. Creative solutions. No limits." 🔥</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1a0a00,100:0D0D0D&height=140&section=footer" width="100%" />
+</p><p align="center">
+  <b style="color:#FF6B00">🔥 "Clean code. Creative solutions. No limits." 🔥</b>
 </p>
