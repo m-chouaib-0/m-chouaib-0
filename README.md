@@ -18,9 +18,6 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
 
-<br/>
-
------
 ## 🔥 About Me
 
 ```javascript
