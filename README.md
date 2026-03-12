@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=280&section=header&text=MOHAMED%20CHOUAIB&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20UI%2FUX%20%7C%20Network%20Security&descAlignY=62&descSize=22&fontColor=FF6B00&descAlignY=64" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=950&lines=🔥+Full-Stack+Developer;🎨+UI%2FUX+Designer+%7C+Creative+Thinker;🛡️+Network+Supervision+Engineer;⚡+React+%7C+Python+%7C+Clean+Code;🚀+Building+the+Future%2C+One+Commit+at+a+Time" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-chouaib-0&color=FF6B00&style=for-the-badge&label=👁️+PROFILE+VIEWS">
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=FOLLOWERS" />
+</p>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+
+## 🔥 About Me
+
 
 const chouaib = {
   location : "Morocco 🇲🇦",
@@ -6,6 +26,9 @@ const chouaib = {
   exploring: ["Zabbix", "Machine Learning", "DevOps"],
   motto    : "Clean code. Creative solutions. No limits."
 };
+
+
+
 <br clear="right"/>
 🧠 Tech Arsenal
 <p align="center">
