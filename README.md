@@ -30,13 +30,13 @@
 
 -----
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif" />
-
+<br/>
+## 🧑‍💻 About Me
 
 <br/>
 
-
-## 🧑‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif" />
+<br/>
 
 ```javascript
 const chouaib = {
